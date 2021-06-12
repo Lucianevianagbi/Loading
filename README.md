@@ -15,7 +15,7 @@
 ##  :camera_flash: Screenshots do Projeto
 <br>  
 
-![Imagem do projeto](https://github.com/Lucianevianagbi/Loading/blob/master/img-loading.jpg)
+![Imagem do projeto](https://github.com/Lucianevianagbi/Loading/blob/master/img-loading.png)
 <br>
 
 ## :woman: By:  Luciane Viana

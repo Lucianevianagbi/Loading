@@ -1,6 +1,4 @@
-#  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">  Loading Animado
-
-##   :book: Projeto para fins de estudo
+#  :book:  Loading Animado
 
 ###   📽️ Vídeo de referência: https://youtu.be/j2T9oAWhF38
 
